@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:0, Русский роман
+http://50.7.222.90:8081/rys_roman/index.m3u8?wmsAuthSign=e5cc934c9367d12f828f02ebe6c31b1a-1633268725-641i52i942i58
+#EXTINF:0, СТС 
+http://176.114.16.54:80/sts/index.m3u8
+#EXTINF:-1,Первый
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:-1,ТНТ
+http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
+#EXTINF:-1,Муз ТВ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id132_NBN_SG--muz-tv/03/plst.m3u8
+#EXTINF:-1,ТНТ Music (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id379_NBN_SG--A_One/03/plst.m3u8
+#EXTINF:-1,НТВ (ForkPlayer)
+http://live02-cdn.tv.ti.ru:80/dtv/id196_NBN_SG--NTV/03/plst.m3u8
+#EXTINF:-1,Первый Музыкальный BY Россия
+http://rtmp.one.by:2200
